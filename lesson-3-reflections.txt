@@ -1,4 +1,5 @@
 When would you want to create a remote repository rather than keeping all your work local?
+    
     When wanting to ensure the safety of your data.
     When working on your project from multiple PCs.
     When collaborating with other users.
@@ -11,7 +12,9 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    A clone is a direct copy from one repository to another. You would want to use this when wanting to make changes to a code         without affecting the original.
+    A fork is a clone that is done on the git hub servers. This allows for better tracking. 
+    A branch is a node off of an existing version of code. It is used when you want to make revisions to code without changing the     main branch. In a sense, it is like a fork, but done locally.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
