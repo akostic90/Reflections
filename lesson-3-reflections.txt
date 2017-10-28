@@ -29,4 +29,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want to make substantial changes that fundamentally affect the code. By creating a seperate branch you can do this and evaluate the impact of the changes before incorporating them. Moreover, you can have multiple people working on multiple branches that you can more easily integrate at the end. The benefit is that it allows you to make more complex changes and do so with multiple users or version, in parallel. The fallback is that it is more complicated and you can run into merging conflicts that you have to manually resolve.
